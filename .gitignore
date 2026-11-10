@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Qodo (AI tool) folder
+.qodo/
+
+# VS Code Code Runner temp file
+tempCodeRunnerFile.py
